@@ -1,4 +1,4 @@
-FROM mikarinneoracle/ubuntu:trusty
+FROM dre32722/ubuntu:trusty
 
 # Create app directory; same as Wercker default
 RUN mkdir -p /pipeline/source
